@@ -1,0 +1,51 @@
+{
+  "name": "app-with-source-control-bellini-app",
+  "type": "app",
+  "defaultPage": "home",
+  "config": {
+    "config": {
+      "parameters": [],
+      "script": ""
+    },
+    "modules": [],
+    "properties": {
+      "version": "1.0.0-SNAPSHOT"
+    },
+    "environments": [],
+    "themes": [],
+    "auth": {
+      "enabled": false,
+      "mockedUserAccounts": []
+    }
+  },
+  "directories": {
+    "assets": [],
+    "components": [
+      {
+        "id": "8AYM06exdBnVOFWpC8Uv5",
+        "name": "dir1"
+      }
+    ],
+    "pages": [],
+    "scripts": [
+      {
+        "id": "EnBY3lEtD9LIvRmnKe0bz",
+        "name": "dir1"
+      }
+    ],
+    "services": [
+      {
+        "id": "xatbw8xDjv4QDejPRPV6O",
+        "name": "dir1"
+      }
+    ],
+    "stylesheets": [
+      {
+        "id": "ZSiRXIryiSg10_f9Om3Gb",
+        "name": "dir1"
+      }
+    ]
+  },
+  "externalScripts": [],
+  "externalStylesheets": []
+}
